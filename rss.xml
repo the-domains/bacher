@@ -4,7 +4,7 @@
         <description><![CDATA[manfred bacher]]></description>
         <link>https://thegrid.ai/bacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 13:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 13:15:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bacher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/bacher/8e64a281-f97b-4bdb-a3f9-715e2fb3616b/index.html</link>
             <guid isPermaLink="false">8e64a281-f97b-4bdb-a3f9-715e2fb3616b</guid>
             <pubDate>Tue, 05 Jan 2016 13:14:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdceffc5-a10a-47e0-9eac-a5a073df7e47.png">]]></description>
-            <link>https://thegrid.ai/bacher/4139cee9-2164-4949-897b-4285c9fc09eb/index.html</link>
-            <guid isPermaLink="false">4139cee9-2164-4949-897b-4285c9fc09eb</guid>
-            <pubDate>Tue, 05 Jan 2016 13:12:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
