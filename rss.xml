@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[manfred bacher]]></title>
         <description><![CDATA[manfred bacher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 16:26:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 13:08:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bacher/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03b142a8-b6c6-4aec-a7e8-0654b5bb7a1e.jpg">]]></description>
+            <link>https://thegrid.ai/bacher/8e64a281-f97b-4bdb-a3f9-715e2fb3616b/index.html</link>
+            <guid isPermaLink="false">8e64a281-f97b-4bdb-a3f9-715e2fb3616b</guid>
+            <pubDate>Tue, 05 Jan 2016 13:08:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>hello world</p>]]></description>
-            <link>undefined5bd34d9f-0e3f-496e-a187-f3affe766cf9/index.html</link>
+            <link>https://thegrid.ai/bacher/5bd34d9f-0e3f-496e-a187-f3affe766cf9/index.html</link>
             <guid isPermaLink="false">5bd34d9f-0e3f-496e-a187-f3affe766cf9</guid>
             <pubDate>Mon, 04 Jan 2016 16:26:12 GMT</pubDate>
         </item>
